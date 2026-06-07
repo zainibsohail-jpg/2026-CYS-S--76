@@ -1,0 +1,18 @@
+def a():
+    print("hello world")
+    print("hello world")
+    print("hello world")
+    print("hello world")
+    print("hello world")
+    print("hello world")
+    print("hello world")
+    print("hello world")
+    print("hello world")
+    print("hello world")
+a()
+a()
+a()
+
+
+
+
