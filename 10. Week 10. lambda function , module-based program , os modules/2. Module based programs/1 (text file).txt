@@ -1,4 +1,0 @@
-r=read
-w=write
-a=append
-b=binary file
