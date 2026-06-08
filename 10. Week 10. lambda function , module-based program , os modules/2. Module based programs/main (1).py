@@ -1,0 +1,2 @@
+import zainab
+zainab.hello()
